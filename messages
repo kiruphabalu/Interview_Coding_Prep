@@ -1,0 +1,6 @@
+Jan 20 03:25:08 fakehost logrotate: ALERT exited abnormally with [1]
+Jan 20 03:25:08 fakehost run-parts(/etc/cron.daily)[20447]: finished logrotate
+Jan 20 03:26:21 fakehost anacron[28969]: Job 'cron.daily' terminated
+Jan 20 03:26:22 fakehost anacron[28969]: Normal exit (1 job run)
+Jan 20 03:30:01 fakehost CROND[31462]: (root) CMD (/usr/lib64/sa/sa1 1 1)
+Jan 20 03:30:01 fakehost CROND[31461]: (root) CMD (/var/system/bin/sys-cmd -F > /dev/null 2>&1)
